@@ -12,8 +12,8 @@ Este diretório contém a documentação relacionada ao projeto, incluindo apres
 
 ## Instruções
 
-1. **Apresentação do Projeto**: Abra o arquivo `apresentacao_projeto.pdf` para visualizar os objetivos, metas e fases principais do projeto.
-2. **Relatório de Validação**: Abra o arquivo `validacao_projeto.pdf` para entender como o projeto foi validado e quais critérios foram utilizados para aferir o sucesso do mesmo.
+1. **Apresentação do Projeto**: Abra o arquivo `apresentacao_projeto.pdf`.
+2. **Relatório de Validação**: Abra o arquivo `validacao_projeto.pdf`.
 
 ## Contato
 
